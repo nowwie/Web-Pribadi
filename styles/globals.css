@@ -29,6 +29,7 @@ h4,
 h5,
 h6 {
   color: #fff;
+  background: transparent;
 }
 h7{
   font-size: 15px;
