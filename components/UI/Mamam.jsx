@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "reactstrap";
 import SectionSubtitle from "./SectionSubtitle";
-import classes from "../../styles/portfolio.module.css";
-import PortfolioItem from "./PortfolioItem";
+import classes from "../../styles/mamam.module.css";
+import PortfolioItem from "./mam";
 
 import portfolioData from "../data/portfolio";
 
@@ -35,7 +35,7 @@ const Portfolio = () => {
       <Container>
         <Row>
           <Col lg="6" md="6" className="mb-5">
-            <SectionSubtitle subtitle=" Mamam" />
+           
             <h4 className="mt-4">Mam an kesukaan ku</h4>
           </Col>
 

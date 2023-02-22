@@ -3,7 +3,7 @@ import { Container, Row, Col } from "reactstrap";
 import Link from "next/link";
 import SectionSubtitle from "./SectionSubtitle";
 import classes from "../../styles/contact.module.css";
-import Form from "./Form";
+
 
 const Contact = () => {
   return (
@@ -55,7 +55,7 @@ const Contact = () => {
           </Col>
 
           <Col lg="6" md="6">
-            <Form />
+            
           </Col>
         </Row>
       </Container>
