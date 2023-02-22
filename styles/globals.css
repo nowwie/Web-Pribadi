@@ -30,7 +30,12 @@ h5,
 h6 {
   color: #fff;
 }
-
+h7{
+  font-size: 15px;
+  color: #ffffff;
+  background: transparent;
+  
+}
 h2 {
   font-size: 2.5rem !important;
 }
