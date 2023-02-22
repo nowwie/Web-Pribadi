@@ -27,7 +27,7 @@ const PortfolioItem = (props) => {
       </div> */}
      
      
-     <div className="desc">
+     <div className="desc bg-transparent">
       {description}
      </div>
      
