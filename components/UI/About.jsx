@@ -4,9 +4,9 @@ import Link from "next/link";
 import SectionSubtitle from "./SectionSubtitle";
 import Image from "next/image";
 
-import img01 from "../../public/images/img-01.jpg";
-import img02 from "../../public/images/img-02.jpg";
-import img03 from "../../public/images/img-03.jpg";
+import img01 from "../../public/images/img-01.JPG";
+import img02 from "../../public/images/img-02.JPG";
+import img03 from "../../public/images/img-03.JPG";
 import img04 from "../../public/images/img-04.png";
 
 import classes from "../../styles/about.module.css";
