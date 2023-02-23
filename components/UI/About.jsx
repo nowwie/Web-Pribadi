@@ -18,7 +18,7 @@ const About = () => {
         <Row>
           <Col lg="6" className={`${classes.about__content}`}>
             
-            <h3 className="mt-4">I&apos;m here to admit, </h3>
+            <h3 className="mt-4">Im here to admit, </h3>
             <h3 className="mb-4">that u're my medicine</h3>
          
 
