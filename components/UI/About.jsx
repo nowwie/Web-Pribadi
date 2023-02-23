@@ -19,7 +19,7 @@ const About = () => {
           <Col lg="6" className={`${classes.about__content}`}>
             
             <h3 className="mt-4">Im here to admit, </h3>
-            <h3 className="mb-4">that u're my medicine</h3>
+            <h3 className="mb-4">that u are my medicine</h3>
          
 
             <div className=" d-flex align-items-center gap-5">
