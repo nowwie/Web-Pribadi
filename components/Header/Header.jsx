@@ -15,7 +15,7 @@ const NAV__LINK = [
   },
   {
     path: "#portfolio",
-    display: "Mamam",
+    display: "Favorite",
   },
   {
     path: "#contact",

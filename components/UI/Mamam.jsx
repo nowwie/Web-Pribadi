@@ -35,7 +35,7 @@ const Portfolio = () => {
       <Container>
         <Row>
           <Col lg="6" md="6" className="mb-5">
-           
+          <SectionSubtitle subtitle="Favorite Food" />
             <h4 className="mt-4">Mam an kesukaan ku</h4>
           </Col>
 
