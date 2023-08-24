@@ -7,7 +7,7 @@ import Image from "next/image";
 import img01 from "../../public/images/img-01.JPG";
 import img02 from "../../public/images/img-02.JPG";
 import img03 from "../../public/images/img-03.JPG";
-import img04 from "../../public/images/img-04.png";
+
 
 import classes from "../../styles/about.module.css";
 
@@ -84,11 +84,7 @@ const About = () => {
                   <Image src={img03} alt="about-img" width="250" height="150" />
                 </div>
 
-                <div
-                  className={`${classes.about__img} ${classes.about__img__box}`}
-                >
-                  <Image src={img04} alt="about-img" width="200" height="300" />
-                </div>
+  
               </div>
             </div>
           </Col>
